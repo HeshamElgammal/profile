@@ -56,11 +56,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HeshamElgammal/HeshamElgammal/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
-
----
-
 ⭐️ From [HeshamElgammal](https://github.com/HeshamElgammal)
