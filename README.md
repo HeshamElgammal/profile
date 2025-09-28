@@ -17,6 +17,15 @@
 
 ---
 
+## 📄 Download My CV
+<p align="center">
+  <a href="https://github.com/HeshamElgammal/HeshamElgammal/raw/main/Hesham-Elgammal-CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
+---
+
 ## 🌟 Featured Projects
 - 🚀 [Waseet.net](https://waseet.net/) – Classifieds platform (React Native + Next.js)  
 - 🚗 [Digital Car](https://www.digitalcar.sa/) – Car-selling app (React Native)  
