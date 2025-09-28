@@ -32,4 +32,3 @@ jobs:
         with:
           branch: output
           folder: dist
-
