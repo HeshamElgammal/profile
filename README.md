@@ -1,42 +1,65 @@
-# Hi there, I'm Hesham 👋
+<h1 align="center">Hi 👋, I'm Hesham Elgammal</h1>
+<h3 align="center">Frontend & Mobile Developer | React.js • React Native • Next.js</h3>
+
+---
 
 ## 🚀 About Me
-I'm a **Frontend & Mobile Developer** passionate about building **cross-platform applications** using **React, React Native, and Next.js**.  
-Currently working on **[Waseet.net](https://waseet.net/)** and **[Digital Car](https://www.digitalcar.sa/)**, delivering scalable, high-performance solutions with modern UI/UX.
-
-I take pride in writing **clean code**, creating **responsive designs**, and staying up to date with the **latest technologies**.
+💻 Passionate about building **cross-platform apps** with React, React Native & Next.js.  
+🚀 Currently working on **[Waseet.net](https://waseet.net/)** & **[Digital Car](https://www.digitalcar.sa/)**.  
+🎯 Focused on **clean code, modern design, and high performance**.  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript  
-- **Frontend:** React.js, React Native, Next.js  
-- **Backend:** Node.js, Express, MongoDB, SQL  
-- **State Management:** Redux, Zustand, React Query  
-- **Tools & Others:** Git, Docker, GraphQL, REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,git,docker,graphql" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 - 🚀 [Waseet.net](https://waseet.net/) – Classifieds platform (React Native + Next.js)  
-- 🚗 [Digital Car](https://www.digitalcar.sa/) – Car-selling mobile app (React Native)  
+- 🚗 [Digital Car](https://www.digitalcar.sa/) – Car-selling app (React Native)  
 - 💊 DrugGo – Mobile pharmacy app (React Native)  
-- 🏔 Hike-Time – Outdoor activity app for hikers (React Native)  
-- 🎓 Al-Haram Al-Makki – Educational mobile platform (React Native)  
+- 🏔 Hike-Time – Outdoor activity app (React Native)  
+- 🎓 Al-Haram Al-Makki – Educational platform (React Native)  
 
 ---
 
 ## 📊 GitHub Stats
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeshamElgammal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeshamElgammal&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeshamElgammal&show_icons=true&theme=radical" alt="Hesham's stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshamElgammal&layout=compact&theme=radical" alt="Top langs" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HeshamElgammal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/hesham-elgammal-3b47a0383)  
-- [GitHub](https://github.com/HeshamElgammal)  
-- 📧 Email: heshamelgammal404@gmail.com  
-- 📱 WhatsApp: [+20 109 290 1319](https://wa.me/201092901319)  
+<p align="center">
+  <a href="https://linkedin.com/in/hesham-elgammal-3b47a0383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HeshamElgammal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:heshamelgammal404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201092901319" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
 ⭐️ From [HeshamElgammal](https://github.com/HeshamElgammal)
+
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HeshamElgammal/HeshamElgammal/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
